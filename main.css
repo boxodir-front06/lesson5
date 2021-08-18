@@ -23,7 +23,7 @@ body{
 .box1{
     width: 10px;
     height: 50px;
-    background-color: blue;
+    background-color: rgb(100, 100, 223);
     animation-delay: 0.1s; 
  }
 .box2{
