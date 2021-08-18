@@ -66,13 +66,6 @@ body{
     20%, 100%{
         transform: scaleY(1);
       }
-      40%{
-        transform: scaleY(2);
-      }
+   
      }
-     button{
-     
-     width: 50px;
-     height: 20px;
-     }
-
+  
